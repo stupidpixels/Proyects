@@ -1,0 +1,18 @@
+
+	<<< CURRENT STATE >>>
+-------------------------------------
+ NAME    : test
+ AGE     : 25
+ SEX     : 1
+ Weight  : 174.00
+ Height  : 70.00
+ BMI     : 24.00 -- NORMAL -- 
+ FAT %   : 18.35
+ BMR     : 1869
+
+	<<< NUTRITIONAL NEEDS >>>
+-------------------------------------
+ Carbs   : 1592 Cal/Day -- 398 Grams/Day
+ Protein : 434  Cal/Day -- 108  Grams/Day
+ Fat     : 868  Cal/Day -- 96  Grams/Day
+ Total   : 2896 Cal/Day
