@@ -1,0 +1,95 @@
+html {
+    height: 100%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background: #191919;
+    background-repeat:no-repeat;
+    margin: 10%;
+}
+
+h1 {
+   font-size: 30px
+}
+
+body {
+   font-family:"Proxima Nova";
+   line-height:100%;
+   color: gray;
+   font-size: 14px;
+   display: block;
+}
+
+hr {
+    border: 0;
+    border-bottom: 1px dotted #333;
+    width: 100%;
+    background: #555;
+ }
+
+.section {
+   clear: both;
+   padding: 2%;
+   margin: 0%;
+}
+
+.col {
+   display: block;
+   float:left;
+   border: 1px dotted #333;
+   border-top: 0;
+   border-bottom: 0;
+   height: 550px;
+}
+
+.col:first-child {margin-left: 0;}
+
+.group:before,
+.group:after {
+   content:"";
+   display:table;
+}
+.group:after {
+   clear:both;
+}
+.group {
+    zoom:1; /* For IE 6/7 */
+}
+
+.span_3_of_3 {
+   width: 100%;
+}
+.span_2_of_3 {
+   width: 66.1%;
+}
+.span_1_of_3 {
+   width: 32.2%;
+}
+
+@media only screen and (max-width: 480px) {
+   .col {
+      margin: 1% 0 1% 0%;
+   }
+}
+
+@media only screen and (max-width: 480px) {
+   .span_3_of_3 {
+      width: 100%;
+   }
+   .span_2_of_3 {
+      width: 100%;
+   }
+   .span_1_of_3 {
+      width: 100%;
+   }
+}
+
+.postitle {
+   color: green;
+   float: center;
+}
+
+.desc {
+   float: center;
+}

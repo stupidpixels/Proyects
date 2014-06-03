@@ -6,12 +6,12 @@
 </head>
 <body>
   <div class="chat">
-    <input type="text" class="chat-name" placeholder= "Enter Chat Name">
+    <input type="text" class="chat-name" placeholder= "Enter Name">
     <div class="chat-messages">
       <div class="chat-message">
       </div>
     </div>
-    <textarea placeholder= "Enter your message: "></textarea>
+    <textarea placeholder= "Enter message: "></textarea>
     <div class="chat-status">Status: <span>Idle</span></div>
   </div>
 
@@ -55,10 +55,9 @@
               message.setAttribute('class', 'chat-message') ;
               message.textContent = data[x].name + ': ' + data[x].message ;
               messages.appendChild(message) ;
-              messages.insertBefore(message, messages.firstChild);
+              messages.insertBefore(message, messages.lastChild);
             }
           };
-          console.log(data) ;
         })
 
         socket.on('status', function(data){
