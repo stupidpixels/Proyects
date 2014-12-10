@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>D2C20974-958F-4538-9538-C3D94146357C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bmi</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>72CC399B2F594B27D506E42ADB6840491B5C2E7A</key>
+		<string>https://github.com/stupidpixels/Proyects.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>BMI/bmi.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>72CC399B2F594B27D506E42ADB6840491B5C2E7A</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/stupidpixels/Proyects.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>72CC399B2F594B27D506E42ADB6840491B5C2E7A</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>72CC399B2F594B27D506E42ADB6840491B5C2E7A</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Proyects</string>
+		</dict>
+	</array>
+</dict>
+</plist>
